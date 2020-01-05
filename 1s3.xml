@@ -1,0 +1,25 @@
+<Isu_Osis Part="1" version="2.0" Counter="1" IsuCalcFs="3.5.5" Database="11148">
+    <Segment_Running Segment_ID="6">
+        <Action Command="1S3" Current_Participant_ID="78" Current_Start_Number="18" Next_Participant_ID="" Prev_Participant_ID="108" Next_Participant_StNum="18" LastScored_Participant_StNum="18"/>
+        <Category_Result_List>
+            <Participant ID="108" Index="1" TIndex="1" TRank="1" TPoint="13.64" Status="ACT" Segment1_Status="O" Segment1_Rank="1" Segment1_Index="1" Segment1_Points="13.64" Segment1_IIndex="1" Segment1_IRank="1" Rec="" Status_Changed="0"/>
+            <Participant ID="58" Index="2" TIndex="2" TRank="2" TPoint="13.22" Status="ACT" Segment1_Status="O" Segment1_Rank="2" Segment1_Index="2" Segment1_Points="13.22" Segment1_IIndex="2" Segment1_IRank="2" Rec="" Status_Changed="0"/>
+            <Participant ID="20" Index="3" TIndex="3" TRank="3" TPoint="12.62" Status="ACT" Segment1_Status="O" Segment1_Rank="3" Segment1_Index="3" Segment1_Points="12.62" Segment1_IIndex="3" Segment1_IRank="3" Rec="" Status_Changed="0"/>
+            <Participant ID="72" Index="4" TIndex="4" TRank="4" TPoint="12.18" Status="ACT" Segment1_Status="O" Segment1_Rank="4" Segment1_Index="4" Segment1_Points="12.18" Segment1_IIndex="4" Segment1_IRank="4" Rec="" Status_Changed="0"/>
+            <Participant ID="78" Index="5" TIndex="5" TRank="5" TPoint="11.32" Status="ACT" Segment1_Status="O" Segment1_Rank="5" Segment1_Index="5" Segment1_Points="11.32" Segment1_IIndex="5" Segment1_IRank="5" Rec="" Status_Changed="0"/>
+            <Participant ID="49" Index="6" TIndex="6" TRank="6" TPoint="11.29" Status="ACT" Segment1_Status="O" Segment1_Rank="6" Segment1_Index="6" Segment1_Points="11.29" Segment1_IIndex="6" Segment1_IRank="6" Rec="" Status_Changed="0"/>
+            <Participant ID="57" Index="7" TIndex="7" TRank="7" TPoint="10.91" Status="ACT" Segment1_Status="O" Segment1_Rank="7" Segment1_Index="7" Segment1_Points="10.91" Segment1_IIndex="7" Segment1_IRank="7" Rec="" Status_Changed="0"/>
+            <Participant ID="111" Index="8" TIndex="8" TRank="8" TPoint="10.70" Status="ACT" Segment1_Status="O" Segment1_Rank="8" Segment1_Index="8" Segment1_Points="10.70" Segment1_IIndex="8" Segment1_IRank="8" Rec="" Status_Changed="0"/>
+            <Participant ID="15" Index="9" TIndex="9" TRank="9" TPoint="10.69" Status="ACT" Segment1_Status="O" Segment1_Rank="9" Segment1_Index="9" Segment1_Points="10.69" Segment1_IIndex="9" Segment1_IRank="9" Rec="" Status_Changed="0"/>
+            <Participant ID="73" Index="10" TIndex="10" TRank="10" TPoint="10.45" Status="ACT" Segment1_Status="O" Segment1_Rank="10" Segment1_Index="10" Segment1_Points="10.45" Segment1_IIndex="10" Segment1_IRank="10" Rec="" Status_Changed="0"/>
+            <Participant ID="17" Index="11" TIndex="11" TRank="11" TPoint="10.44" Status="ACT" Segment1_Status="O" Segment1_Rank="11" Segment1_Index="11" Segment1_Points="10.44" Segment1_IIndex="11" Segment1_IRank="11" Rec="" Status_Changed="0"/>
+            <Participant ID="2" Index="12" TIndex="12" TRank="12" TPoint="9.97" Status="ACT" Segment1_Status="O" Segment1_Rank="12" Segment1_Index="12" Segment1_Points="9.97" Segment1_IIndex="12" Segment1_IRank="12" Rec="" Status_Changed="0"/>
+            <Participant ID="48" Index="13" TIndex="13" TRank="13" TPoint="9.78" Status="ACT" Segment1_Status="O" Segment1_Rank="13" Segment1_Index="13" Segment1_Points="9.78" Segment1_IIndex="13" Segment1_IRank="13" Rec="" Status_Changed="0"/>
+            <Participant ID="19" Index="14" TIndex="14" TRank="14" TPoint="9.64" Status="ACT" Segment1_Status="O" Segment1_Rank="14" Segment1_Index="14" Segment1_Points="9.64" Segment1_IIndex="14" Segment1_IRank="14" Rec="" Status_Changed="0"/>
+            <Participant ID="4" Index="15" TIndex="15" TRank="15" TPoint="9.48" Status="ACT" Segment1_Status="O" Segment1_Rank="15" Segment1_Index="15" Segment1_Points="9.48" Segment1_IIndex="15" Segment1_IRank="15" Rec="" Status_Changed="0"/>
+            <Participant ID="18" Index="16" TIndex="16" TRank="16" TPoint="9.01" Status="ACT" Segment1_Status="O" Segment1_Rank="16" Segment1_Index="16" Segment1_Points="9.01" Segment1_IIndex="16" Segment1_IRank="16" Rec="" Status_Changed="0"/>
+            <Participant ID="74" Index="17" TIndex="17" TRank="17" TPoint="8.94" Status="ACT" Segment1_Status="O" Segment1_Rank="17" Segment1_Index="17" Segment1_Points="8.94" Segment1_IIndex="17" Segment1_IRank="17" Rec="" Status_Changed="0"/>
+            <Participant ID="16" Index="18" TIndex="18" TRank="18" TPoint="7.98" Status="ACT" Segment1_Status="O" Segment1_Rank="18" Segment1_Index="18" Segment1_Points="7.98" Segment1_IIndex="18" Segment1_IRank="18" Rec="" Status_Changed="0"/>
+        </Category_Result_List>
+    </Segment_Running>
+</Isu_Osis>

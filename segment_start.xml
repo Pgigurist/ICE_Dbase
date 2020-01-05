@@ -1,0 +1,97 @@
+<Isu_Osis Part="1" version="2.0" Counter="1" IsuCalcFs="3.5.5" Database="11148">
+    <Segment_Start Category_ID="7" Segment_ID="7" Segment_Index="1" Starting_Participant="2" Next_Participant="2" LastFinished_Participant="1">
+        <Event ID="1" Name="Межрегион. турнир Кубок Константина Меньшова" Abbreviation="MC2019" Type="T" CmpType="L" ODF="0" ExtDt="1">
+            <Event_Officials_List>
+                <Official Index="23" ID="115" Full_Name=" Евгения ПЕТРОВА" Title="" Family_Name="ПЕТРОВА" Given_Name="Евгения" Initial="Е." ScbName1="Евгения ПЕТРОВА" ScbName4="Евгения ПЕТРОВА" Gender="F" Nation="ISU" Club="" Function="REP"/>
+                <Official Index="24" ID="116" Full_Name=" Александр МИНЕЕВ" Title="" Family_Name="МИНЕЕВ" Given_Name="Александр" Initial="А." ScbName1="Александр МИНЕЕВ" ScbName4="Александр МИНЕЕВ" Gender="F" Nation="ISU" Club="" Function="TDG"/>
+                <Official Index="25" ID="126" Full_Name=" Юлия  ЗАЙЦЕВА" Title="" Family_Name="ЗАЙЦЕВА" Given_Name="Юлия" Initial="Ю." ScbName1="Юлия  ЗАЙЦЕВА" ScbName4="Юлия  ЗАЙЦЕВА" Gender="F" Nation="ISU" Club="" Function="TDG"/>
+            </Event_Officials_List>
+            <Category_List>
+                <Category ID="7" Name="3 юнoшеский разряд, мaльчики" Level="" Gender="M" Type="SGL" tec_id="0" ExtDt="" TypeName="Men">    <Participant_List>
+                        <Participant ID="70" Status="ACT" Type="PER" Full_Name="Дмитрий  ХРОМОВ" Short_Name="Дмитрий  ХРОМОВ" TV_Long_Name="Дмитрий  ХРОМОВ" TV_Short_Name="Дмитрий  ХРОМОВ" ScbName1="Дмитрий  ХРОМОВ" ScbName2="Дмитрий  ХРОМОВ" ScbName3="Дмитрий  ХРОМОВ" ScbName4="Дмитрий  ХРОМОВ" Gender="F" Nation="НОВ" Club="НРОО &quot;СК &quot;Айсберг&quot;, г.В-Новгород" Music="" Coach="" ExtRef="" RegNum="" TeamName="" TeamNation="" Status_Changed="0" Organisation="">
+                            <Athlete_List>
+                                <Athlete ID="70" Type="PER" Nation="НОВ" Full_Name="Дмитрий  ХРОМОВ" Initial_Name="ХРОМОВ, Д." Family_Name="ХРОМОВ" Given_Name="Дмитрий" Printed_Long_Name="Дмитрий  ХРОМОВ" Printed_Short_Name="Дмитрий  ХРОМОВ" Initial="Д." ScbName1="Дмитрий  ХРОМОВ" ScbName2="Дмитрий  ХРОМОВ" ScbName3="Дмитрий  ХРОМОВ" ScbName4="Дмитрий  ХРОМОВ" TV_Long_Name="Дмитрий  ХРОМОВ" TV_Short_Name="Дмитрий  ХРОМОВ" RTDS_Long_Name="" RTDS_Short_Name="" Gender="F" Date_Of_Birth="2009-09-09" ExtRef="" RegNum="" Organisation=""/>
+                            </Athlete_List>
+                        </Participant>
+                    <Participant ID="109" Status="ACT" Type="PER" Full_Name="Виктор ШРАМКО" Short_Name="Виктор ШРАМКО" TV_Long_Name="Виктор ШРАМКО" TV_Short_Name="Виктор ШРАМКО" ScbName1="Виктор ШРАМКО" ScbName2="Виктор ШРАМКО" ScbName3="Виктор ШРАМКО" ScbName4="Виктор ШРАМКО" Gender="F" Nation="НОВ" Club="НРОО &quot;СК &quot;Айсберг&quot;, г.В-Новгород" Music="" Coach="" ExtRef="" RegNum="" TeamName="" TeamNation="" Status_Changed="0" Organisation="">
+                        <Athlete_List>
+                            <Athlete ID="109" Type="PER" Nation="НОВ" Full_Name="Виктор ШРАМКО" Initial_Name="ШРАМКО, В." Family_Name="ШРАМКО" Given_Name="Виктор" Printed_Long_Name="Виктор ШРАМКО" Printed_Short_Name="Виктор ШРАМКО" Initial="В." ScbName1="Виктор ШРАМКО" ScbName2="Виктор ШРАМКО" ScbName3="Виктор ШРАМКО" ScbName4="Виктор ШРАМКО" TV_Long_Name="Виктор ШРАМКО" TV_Short_Name="Виктор ШРАМКО" RTDS_Long_Name="" RTDS_Short_Name="" Gender="F" Date_Of_Birth="2009-09-09" ExtRef="" RegNum="" Organisation=""/>
+                        </Athlete_List>
+                    </Participant>
+                </Participant_List>
+                <Category_Result_List>
+                    <Participant ID="109" Index="1" TIndex="1" TRank="1" TPoint="17.91" Status="ACT" Segment1_Status="O" Segment1_Rank="1" Segment1_Index="1" Segment1_Points="17.91" Segment1_IIndex="1" Segment1_IRank="1" Segment2_Status="M" Segment2_Rank="" Segment2_Index="0" Segment2_Points="" Segment2_IIndex="0" Segment2_IRank="" Segment3_Status="M" Segment3_Rank="" Segment3_Index="0" Segment3_Points="" Segment3_IIndex="0" Segment3_IRank="" Segment4_Status="M" Segment4_Rank="" Segment4_Index="0" Segment4_Points="" Segment4_IIndex="0" Segment4_IRank="" Segment5_Status="M" Segment5_Rank="" Segment5_Index="0" Segment5_Points="" Segment5_IIndex="0" Segment5_IRank="" Segment6_Status="M" Segment6_Rank="" Segment6_Index="0" Segment6_Points="" Segment6_IIndex="0" Segment6_IRank=""/>
+                    <Participant ID="70" Index="2" TIndex="2" TRank="2" TPoint="17.30" Status="ACT" Segment1_Status="O" Segment1_Rank="2" Segment1_Index="2" Segment1_Points="17.30" Segment1_IIndex="2" Segment1_IRank="2" Segment2_Status="M" Segment2_Rank="" Segment2_Index="0" Segment2_Points="" Segment2_IIndex="0" Segment2_IRank="" Segment3_Status="M" Segment3_Rank="" Segment3_Index="0" Segment3_Points="" Segment3_IIndex="0" Segment3_IRank="" Segment4_Status="M" Segment4_Rank="" Segment4_Index="0" Segment4_Points="" Segment4_IIndex="0" Segment4_IRank="" Segment5_Status="M" Segment5_Rank="" Segment5_Index="0" Segment5_Points="" Segment5_IIndex="0" Segment5_IRank="" Segment6_Status="M" Segment6_Rank="" Segment6_Index="0" Segment6_Points="" Segment6_IIndex="0" Segment6_IRank=""/>
+                </Category_Result_List>
+            <Segment_List>
+            <Segment ID="7" Name="Произвольная программа" Abbreviation="FS" Name_Of_Dance="" Type="F" Number_Of_Judges="4" Number_Of_Decisive_Judges="4" Group="" QCrit="A" QNumber="0" ExtDt="5" Medal="0">
+                <Criteria_List>
+                    <Criteria Index="1" Cri_Name="Мастерство катания" Cri_Abbrev="SS" Cri_Factor="1.50"/>
+                    <Criteria Index="3" Cri_Name="Представление программы" Cri_Abbrev="PE" Cri_Factor="1.50"/>
+                </Criteria_List>
+                <Deduction_List>
+                    <Deduction Index="1" Ded_Name="Costume/Prop violation" Ded_Edit="D"/>
+                    <Deduction Index="2" Ded_Name="Time violation" Ded_Edit="C"/>
+                    <Deduction Index="4" Ded_Name="Illegal element/movement" Ded_Edit="B"/>
+                    <Deduction Index="5" Ded_Name="Falls" Ded_Edit="B"/>
+                    <Deduction Index="6" Ded_Name="Interruption in excess" Ded_Edit="C"/>
+                    <Deduction Index="7" Ded_Name="Interruption of the program" Ded_Edit="C"/>
+                    <Deduction Index="10" Ded_Name="Costume failure" Ded_Edit="C"/>
+                    <Deduction Index="11" Ded_Name="Late start" Ded_Edit="C"/>
+                </Deduction_List>
+                <Majority_Deduction_List>
+                    <Majority_Deduction Index="1" Ded_Index="1"/>
+                </Majority_Deduction_List>
+                <Segment_Official_List>
+                    <Official Index="1" ID="122" Full_Name=" Никита ЛОГАЧЕВ" Title="" Family_Name="ЛОГАЧЕВ" Given_Name="Никита" Initial="Н." ScbName1="Никита ЛОГАЧЕВ" ScbName4="Никита ЛОГАЧЕВ" Gender="F" Nation="СПБ" Club="" Function="JDG"/>
+                    <Official Index="2" ID="115" Full_Name=" Евгения ПЕТРОВА" Title="" Family_Name="ПЕТРОВА" Given_Name="Евгения" Initial="Е." ScbName1="Евгения ПЕТРОВА" ScbName4="Евгения ПЕТРОВА" Gender="F" Nation="СПБ" Club="" Function="JDG"/>
+                    <Official Index="3" ID="123" Full_Name=" Екатерина ФАГУРЕЛ" Title="" Family_Name="ФАГУРЕЛ" Given_Name="Екатерина" Initial="Е." ScbName1="Екатерина ФАГУРЕЛ" ScbName4="Е. ФАГУРЕЛ" Gender="F" Nation="ПСК" Club="" Function="JDG"/>
+                    <Official Index="4" ID="121" Full_Name=" Елена ЕФРЕМОВА" Title="" Family_Name="ЕФРЕМОВА" Given_Name="Елена" Initial="Е." ScbName1="Елена ЕФРЕМОВА" ScbName4="Елена ЕФРЕМОВА" Gender="F" Nation="СПБ" Club="" Function="JDG"/>
+                    <Official Index="16" ID="115" Full_Name=" Евгения ПЕТРОВА" Title="" Family_Name="ПЕТРОВА" Given_Name="Евгения" Initial="Е." ScbName1="Евгения ПЕТРОВА" ScbName4="Евгения ПЕТРОВА" Gender="F" Nation="СПБ" Club="" Function="ERF"/>
+                    <Official Index="17" ID="119" Full_Name=" Ирина ИЛЬИНА" Title="" Family_Name="ИЛЬИНА" Given_Name="Ирина" Initial="И." ScbName1="Ирина ИЛЬИНА" ScbName4="Ирина ИЛЬИНА" Gender="F" Nation="СПБ" Club="" Function="TCO"/>
+                    <Official Index="18" ID="117" Full_Name=" Алексей ГУБАНОВ" Title="" Family_Name="ГУБАНОВ" Given_Name="Алексей" Initial="А." ScbName1="Алексей ГУБАНОВ" ScbName4="Алексей ГУБАНОВ" Gender="F" Nation="СМО" Club="" Function="TSP"/>
+                    <Official Index="19" ID="118" Full_Name=" Владислав МИРЗОЕВ" Title="" Family_Name="МИРЗОЕВ" Given_Name="Владислав" Initial="В." ScbName1="Владислав МИРЗОЕВ" ScbName4="В. МИРЗОЕВ" Gender="F" Nation="СПБ" Club="" Function="STS"/>
+                    <Official Index="21" ID="120" Full_Name=" Серафима ФАГУРЕЛ" Title="" Family_Name="ФАГУРЕЛ" Given_Name="Серафима" Initial="С." ScbName1="Серафима ФАГУРЕЛ" ScbName4="Серафима ФАГУРЕЛ" Gender="F" Nation="ПСК" Club="" Function="DOP"/>
+                </Segment_Official_List>
+                <Segment_Start_List>
+                    <Performance ID="70" Start_Number="1" Start_Group_Number="1" PElmScore="0.00" Personal_Best="0.00" Personal_Best_Tot="0.00" Status="OK" Season_Best="0.00" Season_Best_Tot="0.00" Season_Best_Rank="0" Season_Best_Index="1" Season_Best_Tot_Rank="0" Season_Best_Tot_Index="1" StartTime="" Prf_ID="19">
+                        <Planned_Element_List/>
+                    </Performance>
+                    <Performance ID="109" Start_Number="2" Start_Group_Number="1" PElmScore="0.00" Personal_Best="0.00" Personal_Best_Tot="0.00" Status="OK" Season_Best="0.00" Season_Best_Tot="0.00" Season_Best_Rank="0" Season_Best_Index="2" Season_Best_Tot_Rank="0" Season_Best_Tot_Index="2" StartTime="" Prf_ID="20">
+                        <Planned_Element_List/>
+                    </Performance>
+                </Segment_Start_List>
+                <Warmup_Group_List>
+                    <Warmup_Group Index="0" Number="2"/>
+                    <Warmup_Group Index="1" Number="0"/>
+                    <Warmup_Group Index="2" Number="0"/>
+                    <Warmup_Group Index="3" Number="0"/>
+                    <Warmup_Group Index="4" Number="0"/>
+                    <Warmup_Group Index="5" Number="0"/>
+                    <Warmup_Group Index="6" Number="0"/>
+                    <Warmup_Group Index="7" Number="0"/>
+                    <Warmup_Group Index="8" Number="0"/>
+                    <Warmup_Group Index="9" Number="0"/>
+                    <Warmup_Group Index="10" Number="0"/>
+                    <Warmup_Group Index="11" Number="0"/>
+                    <Warmup_Group Index="12" Number="0"/>
+                    <Warmup_Group Index="13" Number="0"/>
+                    <Warmup_Group Index="14" Number="0"/>
+                    <Warmup_Group Index="15" Number="0"/>
+                    <Warmup_Group Index="16" Number="0"/>
+                    <Warmup_Group Index="17" Number="0"/>
+                    <Warmup_Group Index="18" Number="0"/>
+                    <Warmup_Group Index="19" Number="0"/>
+                    <Warmup_Group Index="20" Number="0"/>
+                    <Warmup_Group Index="21" Number="0"/>
+                    <Warmup_Group Index="22" Number="0"/>
+                    <Warmup_Group Index="23" Number="0"/>
+                    <Warmup_Group Index="24" Number="0"/>
+                </Warmup_Group_List>
+            </Segment>
+        </Segment_List>
+    </Category>
+</Category_List>
+</Event>
+</Segment_Start>
+</Isu_Osis>

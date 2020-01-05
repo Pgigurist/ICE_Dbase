@@ -1,0 +1,25 @@
+<Isu_Osis Part="1" version="2.0" Counter="1" IsuCalcFs="3.5.5" Database="11148">
+    <Segment_Running Segment_ID="6">
+        <Action Command="1S2" Current_Participant_ID="78" Current_Start_Number="18" Next_Participant_ID="" Prev_Participant_ID="108" Next_Participant_StNum="18" LastScored_Participant_StNum="18"/>
+        <Segment_Result_List>
+            <Performance ID="108" Index="1" Rank="1" Points="13.64" Status="OK" Qualified=" "/>
+            <Performance ID="58" Index="2" Rank="2" Points="13.22" Status="OK" Qualified=" "/>
+            <Performance ID="20" Index="3" Rank="3" Points="12.62" Status="OK" Qualified=" "/>
+            <Performance ID="72" Index="4" Rank="4" Points="12.18" Status="OK" Qualified=" "/>
+            <Performance ID="78" Index="5" Rank="5" Points="11.32" Status="OK" Qualified=" "/>
+            <Performance ID="49" Index="6" Rank="6" Points="11.29" Status="OK" Qualified=" "/>
+            <Performance ID="57" Index="7" Rank="7" Points="10.91" Status="OK" Qualified=" "/>
+            <Performance ID="111" Index="8" Rank="8" Points="10.70" Status="OK" Qualified=" "/>
+            <Performance ID="15" Index="9" Rank="9" Points="10.69" Status="OK" Qualified=" "/>
+            <Performance ID="73" Index="10" Rank="10" Points="10.45" Status="OK" Qualified=" "/>
+            <Performance ID="17" Index="11" Rank="11" Points="10.44" Status="OK" Qualified=" "/>
+            <Performance ID="2" Index="12" Rank="12" Points="9.97" Status="OK" Qualified=" "/>
+            <Performance ID="48" Index="13" Rank="13" Points="9.78" Status="OK" Qualified=" "/>
+            <Performance ID="19" Index="14" Rank="14" Points="9.64" Status="OK" Qualified=" "/>
+            <Performance ID="4" Index="15" Rank="15" Points="9.48" Status="OK" Qualified=" "/>
+            <Performance ID="18" Index="16" Rank="16" Points="9.01" Status="OK" Qualified=" "/>
+            <Performance ID="74" Index="17" Rank="17" Points="8.94" Status="OK" Qualified=" "/>
+            <Performance ID="16" Index="18" Rank="18" Points="7.98" Status="OK" Qualified=" "/>
+        </Segment_Result_List>
+    </Segment_Running>
+</Isu_Osis>
